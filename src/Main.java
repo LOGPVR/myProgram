@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Это первая строка");
+        System.out.println("Это первая строка в программе");
+        System.out.println("Это вторая строка в программе");
     }
 }
